@@ -1,0 +1,11 @@
+C:\Users\local\source\repos\Lesson03\Lesson03\bin\Debug\netcoreapp2.1\Lesson03.deps.json
+C:\Users\local\source\repos\Lesson03\Lesson03\bin\Debug\netcoreapp2.1\Lesson03.runtimeconfig.json
+C:\Users\local\source\repos\Lesson03\Lesson03\bin\Debug\netcoreapp2.1\Lesson03.runtimeconfig.dev.json
+C:\Users\local\source\repos\Lesson03\Lesson03\bin\Debug\netcoreapp2.1\Lesson03.dll
+C:\Users\local\source\repos\Lesson03\Lesson03\bin\Debug\netcoreapp2.1\Lesson03.pdb
+C:\Users\local\source\repos\Lesson03\Lesson03\obj\Debug\netcoreapp2.1\Lesson03.csprojAssemblyReference.cache
+C:\Users\local\source\repos\Lesson03\Lesson03\obj\Debug\netcoreapp2.1\Lesson03.csproj.CoreCompileInputs.cache
+C:\Users\local\source\repos\Lesson03\Lesson03\obj\Debug\netcoreapp2.1\Lesson03.AssemblyInfoInputs.cache
+C:\Users\local\source\repos\Lesson03\Lesson03\obj\Debug\netcoreapp2.1\Lesson03.AssemblyInfo.cs
+C:\Users\local\source\repos\Lesson03\Lesson03\obj\Debug\netcoreapp2.1\Lesson03.dll
+C:\Users\local\source\repos\Lesson03\Lesson03\obj\Debug\netcoreapp2.1\Lesson03.pdb
