@@ -1,0 +1,11 @@
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\bin\Debug\netcoreapp2.1\Wejsciowka02.deps.json
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\bin\Debug\netcoreapp2.1\Wejsciowka02.runtimeconfig.json
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\bin\Debug\netcoreapp2.1\Wejsciowka02.runtimeconfig.dev.json
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\bin\Debug\netcoreapp2.1\Wejsciowka02.dll
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\bin\Debug\netcoreapp2.1\Wejsciowka02.pdb
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\obj\Debug\netcoreapp2.1\Wejsciowka02.csprojAssemblyReference.cache
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\obj\Debug\netcoreapp2.1\Wejsciowka02.csproj.CoreCompileInputs.cache
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\obj\Debug\netcoreapp2.1\Wejsciowka02.AssemblyInfoInputs.cache
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\obj\Debug\netcoreapp2.1\Wejsciowka02.AssemblyInfo.cs
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\obj\Debug\netcoreapp2.1\Wejsciowka02.dll
+C:\Users\local\source\repos\Wejsciowka02\Wejsciowka02\obj\Debug\netcoreapp2.1\Wejsciowka02.pdb
